@@ -6,7 +6,7 @@ CompTIA A+ and Security+ | Tampa, FL
 
 I build and break enterprise environments in a home lab so I can learn to defend them. My work sits where IT operations meets security: running Active Directory and a service desk by day-to-day IT standards, then instrumenting it with a SIEM and writing detections like a SOC analyst.
 
-**Open to entry-level roles:** SOC Analyst (Tier 1) | IT Support / Help Desk | Identity & Access Management
+
 
 [LinkedIn](https://www.linkedin.com/in/jackhessefort/) | [Portfolio](https://jack-hessefort.github.io) | Jackmhess@gmail.com
 
